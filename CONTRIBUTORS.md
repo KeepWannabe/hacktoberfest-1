@@ -1,3 +1,8 @@
+#### Name: North Moura
+ - Place: Jakarta, Indonesia
+ - Bio: Junior UI/UX, Junior Bug Hunter.
+ - GitHub: [KeepWannabe](https://github.com/KeepWannabe)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
